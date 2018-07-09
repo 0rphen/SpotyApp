@@ -1,4 +1,0 @@
-<app-loading></app-loading>
-<app-cards [items]="nuevasCanciones"></app-cards>
-
-CO
